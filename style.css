@@ -16,6 +16,7 @@ input{
   font-size: 30px;
   font-family: 'Lilita One', cursive;
   border-radius: 25%;
+  border: 2px solid #ffffff;
 }
 
 .maincolor{
